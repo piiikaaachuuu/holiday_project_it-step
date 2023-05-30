@@ -1,0 +1,603 @@
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .photo_country_1 img {
+        width: 300px;
+    }
+    .photo_country_2 img {
+        width: 300px;
+    }
+    .photo_country_3 img {
+        width: 300px;
+    }
+    .btn_2 {
+        margin-left: 355px;
+        margin-top: 50px;
+    }
+    .text_1 h2 {
+        margin-top: 80px;
+    }
+    /* end second screen */
+    .text_2 p {
+        width: 800px;
+        margin-left: 70px;
+    }
+    .photo_start_trip div {
+        width: 450px;
+    }
+    .photo_start_trip {
+        width: 960px;
+    }
+    /* end third screen */
+    .four_screen .container {
+        width: 960px;
+    }
+    .text_3 {
+        width: 300px;
+    }
+    .text_3 p {
+        width: 450px;
+    }
+    .photo_video {
+        width: 450px;
+        margin-top: 90px;
+    }
+    .btn_play_video img {
+        margin-top: -180px;
+        margin-left: 200px;
+    }
+    /* end four screen */
+    .text_4 h2 {
+        padding-left: 350px;
+    }
+    .text_4 p {
+        width: 800px;
+    }
+    .block_1 {
+        width: 300px;
+    }
+    .block_1 h3 {
+        width: 280px;
+        font-size: 25px;
+        margin-left: 10px;
+    }
+    .block_1 p {
+        width: 280px;
+    }
+    /* end five screen */
+    .comment {
+        width: 500px;
+        margin-left: 20px;
+    }
+    .comment_block {
+        width: 500px;
+        margin-top: -40px;
+        height: 250px;
+    }
+    .comment_text p {
+        width: 300px;
+        font-size: 14px;
+    }
+    .comment .photo_customers {
+        width: 500px;
+    }
+    .autor p {
+        font-size: 16px;
+    }
+    .stars img {
+        width: 20px;
+        height: 20px;
+    }
+    .a_skip {
+        margin-left: 470px;
+    }
+    .text_5 h2 {
+        margin-top: 50px;
+    }
+    /* end six screen */
+    .end_menu {
+        margin-left: 300px;
+        margin-top: 40px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+
+    .first_screen {
+        height: 500px;
+    }
+    .four_screen .container {
+        margin: 0 auto;
+        width: 720px;
+    }
+    .header {
+        padding-top: 30px;
+    }
+    .logo_img {
+        width: 120px;
+    }
+    .header ul {
+        width: 350px;
+    }
+    .header ul a {
+        font-size: 16px;
+    }
+    .btn_red {
+        font-size: 12px;
+    }
+    .btn_phone {
+        width: 180px;
+        height: 40px;
+        padding: 10px 20px;
+    }
+    .btn_phone p {
+        font-size: 14px;
+    }
+    .btn_phone img {
+        width: 12px;
+        height: 20px;
+    }
+    .offer {
+        width: 350px;
+    }
+    .offer-box .planet-img {
+        width: 350px;
+        height: 350px;
+        margin-top: 30px;
+    }
+    .offer h1 {
+        font-size: 40px;
+    }
+    .offer p {
+        margin: 15px 0;
+        font-size: 20px;
+        width: 350px;
+    }
+    .offer {
+        margin: 0;
+        padding-top: 60px;
+    }
+    .btn {
+        width: 380px;
+    }
+    .btn_red {
+        width: 150px;
+    }
+    .btn_play {
+        width: 200px;
+    }
+    .btn_play p {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    /* end first screen */
+    .second_screen {
+        height: 620px;
+    }
+    .text_1 h2 {
+        margin-top: 40px;
+    }
+    .text_1 p {
+        width: 700px;
+    }
+    .photo_country img {
+        width: 220px;
+    }
+    .photo_country figcaption {
+        margin-top: 20px;
+    }
+    .btn_2 {
+        margin: 20px 280px;
+    }
+    /* end second screen */
+    .text_2 h2 {
+        padding-top: 40px;
+    }
+    .text_2 p {
+        width: 600px;
+        margin-left: 60px;
+    }
+    .photo_start_trip {
+        width: 700px;
+    }
+    .photo_start_trip div {
+        width: 340px;
+    }
+    .photo_start_trip h3{
+        font-size: 28px;
+    }
+    .photo_start_trip_1 div a {
+        width: 200px;
+    }
+    .photo_start_trip_2 div a {
+        width: 200px;
+    }
+    /* end third screen */
+    .text_3 {
+        width: 300px;
+    }
+    .text_3 h2 {
+        font-size: 28px;
+    }
+    .text_3 p {
+        width: 320px;
+        margin-top: 20px;
+    }
+    .text_3 a {
+        margin-top: 10px;
+    }
+    .video {
+        width: 400px;
+    }
+    .video .photo_video {
+        width: 340px;
+        margin-left: -60px;
+        margin-top: 100px;
+    }
+    .video .icon_play {
+        margin-top: -140px;
+        margin-left: 90px;
+    }
+    /* end four screen */
+    .five_screen {
+        height: 650px;
+    }
+    .text_4 h2 {
+        padding-left: 220px;
+    }
+    .text_4 p {
+        width: 700px;
+        padding-left: 0;
+    }
+    .block_1 {
+        width: 230px;
+    }
+    .figura_1 {
+        margin-top: 30px;
+        margin-left: 85px;
+    }
+    .figura_2 {
+        margin-top: 30px;
+        margin-left: 85px;
+    }
+    .figura_3 {
+        margin-top: 30px;
+        margin-left: 85px;
+    }
+    .block_1 h3 {
+        margin-top: 15px;
+        margin-left: -20px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .block_1 p {
+        width: 180px;
+        font-size: 14px;
+        margin-left: 26px;
+    }
+    /* end five screen */
+    .text_5 {
+        margin-top: 60px;
+    }
+    .text_5 h2 {
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .text_5 h2 span {
+        font-size: 28px;
+    }
+    .text_5 p {
+        font-size: 12px;
+        padding-top: 5px;
+    }
+    .text_5 a {
+        width: 250px;
+        padding-left: 20px;
+        font-size: 15px;
+    }
+    .text_5 img {
+        margin-left: 180px;
+    }
+    .comment {
+        width: 400px;
+        margin-left: 20px;
+    }
+    .comment_block {
+        width: 400px;
+        margin-top: -40px;
+        height: 250px;
+    }
+    .comment_text p {
+        width: 300px;
+        font-size: 14px;
+    }
+    .comment .photo_customers {
+        width: 400px;
+    }
+    .autor p {
+        font-size: 16px;
+    }
+    .stars img {
+        width: 20px;
+        height: 20px;
+    }
+    .a_skip {
+        margin-left: 370px;
+    }
+    /* end six screen */
+    .logo {
+        width: 250px;
+    }
+    .logo img {
+        width: 100px;
+        height: 40px;
+    }
+    .form {
+        width: 380px;
+    }
+    .form .label {
+        width: 250px;
+    }
+    .form .submit {
+        width: 100px;
+        font-size: 14px;
+    }
+    .end_menu {
+        margin-left: 160px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 540px;
+    }
+
+    .first_screen {
+        height: 450px;
+    }
+    .header ul {
+        width: 230px;
+    }
+    .header ul a {
+        font-size: 12px;
+    }
+    .btn_red {
+        font-size: 12px;
+    }
+    .btn_phone {
+        width: 140px;
+        height: 40px;
+        padding: 10px 20px;
+    }
+    .btn_phone p {
+        font-size: 10px;
+    }
+    .btn_phone img {
+        width: 9px;
+        height: 16px;
+    }
+    .offer {
+        width: 220px;
+    }
+    .offer-box .planet-img {
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+    }
+    .offer h1 {
+        font-size: 28px;
+    }
+    .offer p {
+        margin: 15px 0;
+        font-size: 15px;
+        width: 250px;
+    }
+    .offer {
+        padding-top: 70px;
+    }
+    .btn_red {
+        width: 100px;
+        height: 40px;
+    }
+    .btn a {
+        font-size: 9px;
+        padding-top: 8px;
+    } 
+    .btn_play {
+        width: 270px;
+        margin-top: -12px;
+    }
+    .btn_play img {
+        width: 40px;
+        height: 40px;
+    }
+    .btn_play p {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    /* end first screen */
+    .text_1 h2 {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+    .text_1 p {
+        width: 500px;
+        font-size: 16px;
+        margin: 30px auto;
+    }
+    .photo_country img {
+        width: 170px;
+    }
+    .btn_2 {
+        margin: 30px 220px;
+    }
+    .btn_2 a {
+        padding: 8px;
+    }
+    /* end second screen */
+    .text_2 p {
+        width: 500px;
+        margin: 0 auto;
+        font-size: 16px;
+    }
+    .photo_start_trip {
+        width: 540px;
+    }
+    .photo_start_trip div {
+        width: 260px;
+    }
+    .photo_start_trip h3{
+        font-size: 25px;
+    }
+    .photo_start_trip_1 div a {
+        width: 170px;
+    }
+    .photo_start_trip_2 div a {
+        width: 170px;
+    }
+    /* end third screen */
+    .four_screen .container {
+        margin: 0 auto;
+        width: 540px;
+    }
+    .text_3 {
+        width: 250px;
+    }
+    .text_3 h2 {
+        font-size: 20px;
+    }
+    .text_3 p {
+        width: 250px;
+        font-size: 15px;
+    }
+    .video {
+        width: 250px;
+    }
+    .video .photo_video {
+        width: 250px;
+        margin-left: -60px;
+        margin-top: 130px;
+    }
+    .video .icon_play {
+        margin-top: -110px;
+        margin-left: 40px;
+    }
+    /* end four screen */
+
+    .text_4 h2 {
+        padding-left: 130px;
+    }
+    .text_4 p {
+        width: 540px;
+        padding-left: 0;
+    }
+    .block_1 {
+        width: 170px;
+    }
+    .figura_1 {
+        margin-top: 30px;
+        margin-left: 55px;
+    }
+    .figura_2 {
+        margin-top: 30px;
+        margin-left: 55px;
+    }
+    .figura_3 {
+        margin-top: 30px;
+        margin-left: 55px;
+    }
+    .block_1 h3 {
+        margin-left: -55px;
+        font-size: 15px;
+    }
+    .block_1 p {
+        width: 150px;
+        font-size: 12px;
+        margin-left: 12px;
+    }
+    /* end five screen */
+    .text_5 h2 {
+        width: 200px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .text_5 h2 span {
+        font-size: 18px;
+    }
+    .text_5 p {
+        width: 200px;
+        font-size: 12px;
+    }
+    .text_5 a {
+        width: 200px;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .text_5 img {
+        margin-left: 130px;
+    }
+    .comment {
+        width: 280px;
+        margin-left: 20px;
+    }
+    .comment_block {
+        width: 280px;
+        margin-top: -20px;
+        height: 310px;
+    }
+    .comment_text p {
+        width: 200px;
+        font-size: 12px;
+        padding-top: 0;
+    }
+    .comment .photo_customers {
+        width: 280px;
+    }
+    .autor p {
+        font-size: 12px;
+    }
+    .stars img {
+        width: 18px;
+        height: 18px;
+    }
+    .a_skip {
+        margin-left: 250px;
+    }
+    /* end six screen */
+    .logo {
+        width: 200px;
+    }
+    .logo img {
+        width: 80px;
+        height: 30px;
+        padding-right: 10px;
+    }
+    .logo h2 {
+        padding-left: 10px;
+    }
+    .form {
+        width: 280px;
+    }
+    .form .label {
+        width: 170px;
+    }
+    .end_menu {
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .comment {
+        margin-right: 20px;
+    }
+    .text_5 img {
+        margin-left: 131px;
+    }
+}
